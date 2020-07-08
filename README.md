@@ -15,7 +15,7 @@ A SAR application for batch processing images in Amazon S3 against an Amazon Sag
 │   ├── GetImageInfo.py         <-- Lambda function code
 ├── template.yaml               <-- SAM Template
 ```
-## Services Deployed Justgit 
+## Services Deployed Change
 
 * Two AWS Lambda Functions (Described in the next section)
 * An AWS Step function state machine
